@@ -56,7 +56,7 @@ fn sort_tree_by_size(node: &mut FileNode) {
 }
 
 fn main() {
-    let matches = Command::new("Disk Inventory")
+    let matches = Command::new("crabgrass")
         .version("0.1.0")
         .author("Your Name")
         .about("Analyze disk usage")
